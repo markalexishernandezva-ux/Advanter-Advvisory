@@ -1,2 +1,0 @@
-# Advanter-Advvisory
-Advanter CRM
